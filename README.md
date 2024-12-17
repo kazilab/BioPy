@@ -1,2 +1,2 @@
 # BioPy
-NAVIGATING BIOMEDICAL DATA: A Python Approach for Beginners
+Python Essentials for Biomedical Data Exploration: An Introductory Guide

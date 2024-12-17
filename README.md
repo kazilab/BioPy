@@ -1,2 +1,2 @@
 # BioPy
-Python Essentials for Biomedical Data Exploration: An Introductory Guide
+Python Essentials for Biomedical Data Analysis: An Introductory Guide
